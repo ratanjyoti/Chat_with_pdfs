@@ -2,6 +2,12 @@
 
 A powerful PDF chatbot application that allows you to upload PDF documents and ask questions about their content using Google's Gemini AI model and advanced natural language processing.
 
+
+## 🎥 Demo Video
+
+[![App Demo](https://img.youtube.com/vi/10vLUFBVw9E/0.jpg)](https://youtu.be/10vLUFBVw9E)
+
+
 ## 🌟 Features
 
 - **PDF Upload**: Support for multiple PDF file uploads
