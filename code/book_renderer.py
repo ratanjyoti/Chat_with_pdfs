@@ -223,7 +223,7 @@ def _paginate(paragraphs: List[str], font, draw: ImageDraw.Draw,
 def get_book_page_images(book_text: str, title: str, author: str,
                          batch_index: int = 0,
                          chars_per_batch: int = 40_000,
-                         dpi: int = 130) -> Tuple[List[Image.Image], int]:
+                         dpi: int = 90) -> Tuple[List[Image.Image], int]:
     """
     Slice book_text into batches, paginate the current batch, and
     return (list_of_PIL_Images, total_batch_count).
