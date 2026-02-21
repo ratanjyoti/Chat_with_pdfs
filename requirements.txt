@@ -17,4 +17,8 @@ pdf2image
 Pillow
 langchain-huggingface
 sentence-transformers
+langchain-community
+langchain-core
 langchain
+faiss-cpu
+python-dotenv
