@@ -7,3 +7,11 @@ langchain-core
 langchain-text-splitters
 faiss-cpu
 python-dotenv
+flask
+uvicorn
+# fast api
+fastapi
+requests
+reportlab 
+pdf2image
+Pillow
